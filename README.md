@@ -215,3 +215,21 @@ The UI uses Tailwind CSS for styling. You can customize the appearance by:
 ## License
 
 This resource is licensed under the MIT License. Feel free to modify and share it!
+
+## Images
+
+### Main Interface
+![Main Interface](images/main.png)
+The main dealership interface with a clean, modern design.
+
+### Vehicle Management
+![Adding Cars](images/adding-cars.png)
+Interface for adding new vehicles to the dealership inventory.
+
+### Sales History
+![Database Sales](images/database-sales.png)
+Sales tracking and history interface showing transaction records.
+
+### Vehicle Details
+![Highlighted Features](images/highlighted.png)
+Detailed view showing vehicle features and specifications.
